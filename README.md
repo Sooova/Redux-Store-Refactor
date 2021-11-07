@@ -9,7 +9,7 @@ The purpose of this task, was to refactor an already working e-commerce applicat
 * [User_Story](#user_story)
 * [License](#license)
 * [Questions](#questions)
-* [Deployment_Images] (#deployment_images)
+* [Deployment Images](#deployment images)
 
 ## Installation 
 No installation instructions neccessary. The live deployment can be visited at:
@@ -24,7 +24,7 @@ I WANT my platform to use Redux to manage global state instead of the Context AP
 SO THAT my website's state management is taken out of the React ecosystem
 ```
 
-## Deployment_Images
+## Deployment Images
 ![](https://i.imgur.com/VVBWcnL.png)
 ![](https://i.imgur.com/i1x4Pzf.png)
 
