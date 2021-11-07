@@ -24,7 +24,7 @@ I WANT my platform to use Redux to manage global state instead of the Context AP
 SO THAT my website's state management is taken out of the React ecosystem
 ```
 
-## Deployment Images
+## Deployment_Images
 ![](https://i.imgur.com/VVBWcnL.png)
 ![](https://i.imgur.com/i1x4Pzf.png)
 
