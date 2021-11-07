@@ -21,3 +21,12 @@ const useStoreContext = () => {
 };
 
 export { StoreProvider, useStoreContext };
+
+const initialState = {
+  products: [],
+  cart: [],
+  cartOpen: false,
+  categories: [],
+  currentCategory: '',
+}
+
